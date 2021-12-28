@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**WilliamStar007/WilliamStar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
+
+- 💼 Teaching Assistant for CS 2201 (Data Structures)
+
+- 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)'s ongoing research on Biases in Software Engineering
+
+- 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2022
+
+- 💬 Feel free to [contact](https://github.com/WilliamStar007/WilliamStar007/issues) me!
+
+**Languages:**    
