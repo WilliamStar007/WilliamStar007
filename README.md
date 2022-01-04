@@ -1,6 +1,4 @@
-<p align="center"><img width="40%" src="https://i.postimg.cc/g0nNbmbv/IMG-0409.jpg" /></p>
-
-</br>
+<p align="center"><img width="30%" src="https://i.postimg.cc/hGBPHPdY/William-Star.jpg" /></p>
 
 **About me**
 
