@@ -10,15 +10,17 @@
 
 - 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2022
 
+<p align="left"> 
+  
 - 💬 Feel free to contact me!
 
-<p align="center">    
   <a href="https://www.linkedin.com/in/anda-liang">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/WilliamStar007/WilliamStar007/issues">
     <img height="30" src="https://img.shields.io/badge/Issues-grey?style=for-the-badge&logo=github" />
   </a>
+  <br></br>
 </p>
 
 **Languages & Tools**
