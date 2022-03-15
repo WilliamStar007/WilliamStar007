@@ -44,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="flask.palletsprojects.com" target="_blank" rel="noreferrer"> 
-    <img src="https://i.postimg.cc/QNfnB6MG/flask-logo.png" alt="unity" width="40" height="40"/> 
+    <img src="https://i.postimg.cc/QNfnB6MG/flask-logo.png" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
