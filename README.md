@@ -6,9 +6,9 @@
 
 - 💼 Teaching Assistant for CS 2201 (Data Structures)
 
-- 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)'s ongoing research on Human Biases in Software Engineering
+- 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)'s ongoing HCI research on Biases in Software Engineering
 
-- 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2022
+- 🌱 Currently looking for an internship in Software Engineering or a related field for Fall 2022
 
 <p align="left"> 
   
