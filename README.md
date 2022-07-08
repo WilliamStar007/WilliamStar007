@@ -4,11 +4,11 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Teaching Assistant for CS 2201 (Data Structures)
+- 💼 Teaching Assistant for CS 3251 (Intermediate Software Design)
 
 - 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)'s ongoing HCI research on Biases in Software Engineering
 
-- 🌱 Currently looking for an internship in Software Engineering or a related field for Fall 2022
+- 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2023
 
 <p align="left"> 
   
