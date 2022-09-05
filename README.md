@@ -4,7 +4,7 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Teaching Assistant for CS 3251 (Intermediate Software Design)
+- 💼 Graduate tutor for math and physics (MATH 1300/01, PHYS 1601/02)
 
 - 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang) with an ongoing HCI research on Biases in Software Engineering
 
