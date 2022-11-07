@@ -4,7 +4,7 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Graduate tutor for math and physics (MATH 1300, PHYS 1601)
+- 💼 Group session tutor for math and physics (MATH 1300, PHYS 1601)
 
 - 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang) with an ongoing HCI research on Biases in Software Engineering
 
