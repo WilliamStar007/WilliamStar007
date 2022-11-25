@@ -4,7 +4,7 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Group session tutor for math and physics (MATH 1300, PHYS 1601)
+- 💼 Teaching Assistant for [CS 4278/5278](https://huang.isis.vanderbilt.edu/cs4278/) (Principles of Software Engineering)
 
 - 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang) with an ongoing HCI research on Biases in Software Engineering
 
