@@ -6,7 +6,7 @@
 
 - 💼 Teaching Assistant for [CS 4278/5278](https://huang.isis.vanderbilt.edu/cs4278/) (Principles of Software Engineering)
 
-- 🔭 Assisting [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang) with an ongoing HCI research on Biases in Software Engineering
+- 🔭 Working on an ongoing HCI research on Biases in Software Engineering under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
 
 - 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2023
 
