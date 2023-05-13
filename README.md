@@ -1,4 +1,8 @@
-<p align="center"><img width="30%" src="https://i.postimg.cc/7671qNPV/William-Star.jpg" /></p>
+<a href="https://github.com/WilliamStar007">
+  <p align="center">
+    <img width="30%" src="https://i.postimg.cc/7671qNPV/William-Star.jpg" />
+  </p>
+</a>
 
 **About me**
 
