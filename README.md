@@ -12,7 +12,7 @@
 
 - 🔭 Working on an ongoing HCI research on Biases in Software Engineering under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
 
-- 🌱 Currently looking for an internship in Software Engineering or a related field for Summer 2023
+- 🌱 Currently looking for an Software Engineering position for Fall 2024
 
 <p align="left"> 
   
