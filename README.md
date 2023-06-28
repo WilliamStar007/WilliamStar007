@@ -8,11 +8,11 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Teaching Assistant for [CS 4278/5278](https://huang.isis.vanderbilt.edu/cs4278/) (Principles of Software Engineering)
+- 💼 Teaching Assistant for CS 3281/5281 (Principles of Operating Systems)
 
 - 🔭 Working on an ongoing HCI research on Biases in Software Engineering under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
 
-- 🌱 Currently looking for an Software Engineering position for Fall 2024
+- 🌱 Currently looking for a Software Engineering position for Fall 2024
 
 <p align="left"> 
   
