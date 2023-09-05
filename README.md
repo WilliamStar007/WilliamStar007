@@ -8,9 +8,9 @@
 
 - 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Teaching Assistant for CS 3281/5281 (Principles of Operating Systems)
+- 💼 Intern at NASA Jet Propulsion Laboratory 🚀
 
-- 🔭 Working on an ongoing HCI research on Biases in Software Engineering under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
+- 🔭 Working on ongoing Software Engineering research under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
 
 - 🌱 Currently looking for a Software Engineering position for Fall 2024
 
