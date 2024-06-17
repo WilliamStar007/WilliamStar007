@@ -18,10 +18,10 @@
   
 - 💬 Feel free to contact me!
 
-  <a href="https://discord.com/users/williamstar">
+  <a href="https://discord.com/users/williamstar" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/WilliamStar007/WilliamStar007/issues">
+  <a href="https://github.com/WilliamStar007/WilliamStar007/issues" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Issues-grey?style=for-the-badge&logo=github" />
   </a>
   <br></br>
