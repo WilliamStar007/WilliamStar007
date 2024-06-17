@@ -18,9 +18,6 @@
   
 - 💬 Feel free to contact me!
 
-  <a href="https://www.linkedin.com/in/anda-liang">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://github.com/WilliamStar007/WilliamStar007/issues">
     <img height="30" src="https://img.shields.io/badge/Issues-grey?style=for-the-badge&logo=github" />
   </a>
@@ -30,6 +27,10 @@
 <!---
   <a href="https://scholar.google.com/citations?user=YbndD8AAAAAJ&hl=en">
     <img height="30" src="https://img.shields.io/badge/scholar-dcdcdc?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjNDI4NWY0IiBkPSJNMjU2IDQxMS4xMkwwIDIwMi42NjcgMjU2IDB6Ii8+PHBhdGggZmlsbD0iIzM1NmFjMyIgZD0iTTI1NiA0MTEuMTJsMjU2LTIwOC40NTNMMjU2IDB6Ii8+PGNpcmNsZSBmaWxsPSIjYTBjM2ZmIiBjeD0iMjU2IiBjeT0iMzYyLjY2NyIgcj0iMTQ5LjMzMyIvPjxwYXRoIGZpbGw9IiM3NmE3ZmEiIGQ9Ik0xMjEuMDM3IDI5OC42NjdjMjMuOTY4LTUwLjQ1MyA3NS4zOTItODUuMzM0IDEzNC45NjMtODUuMzM0czExMC45OTUgMzQuODgxIDEzNC45NjMgODUuMzM0SDEyMS4wMzd6Ii8+PC9zdmc+" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 --->
 
