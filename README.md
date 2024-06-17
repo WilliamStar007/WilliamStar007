@@ -6,11 +6,11 @@
 
 **About me**
 
-- 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
+- 🎓 B.S. & M.S. in Computer Science from [Vanderbilt University](https://www.vanderbilt.edu/)
 
-- 💼 Intern at NASA Jet Propulsion Laboratory 🚀
+- 💼 SE Intern at NASA Jet Propulsion Laboratory 🚀
 
-- 🔭 Working on ongoing Software Engineering research under [Prof. Yu Huang](https://engineering.vanderbilt.edu/bio/yu-huang)
+- 🔭 SE Research Assistant under [Prof. Yu Huang](https://www.isis.vanderbilt.edu/team/286)
 
 - 🌱 Currently looking for a Software Engineering position for Fall 2024
 
