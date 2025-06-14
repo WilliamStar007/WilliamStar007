@@ -4,6 +4,7 @@
   </p>
 </a>
 
+<!---
 **About me**
 
 - 🎓 B.S. & M.S. in Computer Science from [Vanderbilt University](https://www.vanderbilt.edu/)
@@ -17,6 +18,9 @@
 <p align="left"> 
   
 - 💬 Feel free to contact me!
+--->
+
+💬 Feel free to contact me!
 
   <a href="https://discord.com/users/williamstar" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
